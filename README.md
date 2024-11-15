@@ -42,4 +42,10 @@ This functionality allows the system to not only inform, but also act as a virtu
 3. Display on the Web Page: The sensor information and AI recommendations are displayed in real time on the web page, where the user can consult both the current data and the generated suggestions.
 4. Continuous Update: The system works continuously, updating data and recommendations as environmental conditions change.
 
-to be continued...
+## Example of use
+A typical example of use could be in an office or closed room where CO2 levels tend to rise. The system can detect this condition and recommend opening a window to ventilate the environment, helping to prevent fatigue and improve concentration. In another case, it could alert about high humidity and suggest the use of dehumidifiers.
+
+## Auhtors
+* Manuel Rodriguez
+* Noel Mora
+* Sergio Claustro
