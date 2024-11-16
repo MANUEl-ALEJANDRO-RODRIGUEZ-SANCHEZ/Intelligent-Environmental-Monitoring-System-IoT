@@ -45,6 +45,9 @@ This functionality allows the system to not only inform, but also act as a virtu
 ## Example of use
 A typical example of use could be in an office or closed room where CO2 levels tend to rise. The system can detect this condition and recommend opening a window to ventilate the environment, helping to prevent fatigue and improve concentration. In another case, it could alert about high humidity and suggest the use of dehumidifiers.
 
+## Operation
+We embed code in the ESP32 development board to analyze environmental variables using sensors and for the use of AI we use the Gemini API, but for this we create another AI that we store in Vercel to be able to consult this AI to the other AI
+
 ## Auhtors
 * Manuel Rodriguez
 * Noel Mora
