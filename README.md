@@ -48,6 +48,20 @@ A typical example of use could be in an office or closed room where CO2 levels t
 ## Operation
 We embed code in the ESP32 development board to analyze environmental variables using sensors and for the use of AI we use the Gemini API, but for this we create another AI that we store in Vercel to be able to consult this AI to the other AI
 
+![image](https://github.com/user-attachments/assets/9a6771b0-f85a-4e34-aa5e-95e29b59af87)
+
+![image](https://github.com/user-attachments/assets/cc6f2b33-f7f5-43a6-93e1-96264503e76d)
+
+![image](https://github.com/user-attachments/assets/02391387-eee2-4440-8578-2c619dd8cc5f)
+
+![image](https://github.com/user-attachments/assets/6bdae549-b618-46a1-a785-ad49775dab32)
+
+![image](https://github.com/user-attachments/assets/e8c2c231-e567-4e22-8c6d-4c37f8570c91)
+
+![image](https://github.com/user-attachments/assets/7fd81beb-4f72-447f-bdd2-03570350af16)
+
+![image](https://github.com/user-attachments/assets/f153d0a3-7520-441a-9dcb-d32c605c399c)
+
 ## Auhtors
 * Manuel Rodriguez
 * Noel Mora
