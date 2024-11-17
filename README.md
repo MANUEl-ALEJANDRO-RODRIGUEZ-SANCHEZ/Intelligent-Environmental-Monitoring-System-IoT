@@ -62,7 +62,7 @@ We embed code in the ESP32 development board to analyze environmental variables 
 
 ![image](https://github.com/user-attachments/assets/f153d0a3-7520-441a-9dcb-d32c605c399c)
 
-## Auhtors
+## Authors
 * Manuel Rodriguez
 * Noel Mora
 * Sergio Claustro
